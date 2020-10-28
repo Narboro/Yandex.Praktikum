@@ -1,14 +1,5 @@
 # Проекты, выполненные в процессе обучения в Яндекс.Практикум.
 
-Были решены актуальные задачи для:
-* **Отраслевых компаний**
-* **IT-компаний**
-* **Телеком**
-* **Digital**
-* **Ритейла**
-* **Разработчиков игр**
-* **Банковского сектора**
-
 <table>
 	<tr>
 		<th>Проект</th>
@@ -70,16 +61,41 @@
 			<code>Pandas</code>, <code>Numpy</code>, <code>Matplotlib</code>, <code>Seaborn</code>, <code>Scikit-Learn</code>, <code>LinearRegression</code>, <code>GradientBoostingRegressor</code>, <code>RandomForestRegressor</code>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F" alt="Определение стоимости автомобиля">Определение стоимости автомобиля</a>
+		</td>
+		<td>
+			Сервис по продаже автомобилей с пробегом планирует привлечь новых клиентов. Ему требуется приложение для автоматизированной оценки рыночной стоимости автомобиля с использованием моделей машинного обучения.
+		</td>
+		<td>
+			<code>Pandas</code>, <code>Numpy</code>, <code>Matplotlib</code>, <code>Seaborn</code>, <code>Scikit-Learn</code>, <code>LightGBM</code>, <code>CatBoost</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%20%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2%20%D1%82%D0%B0%D0%BA%D1%81%D0%B8%20%D0%BD%D0%B0%20%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D0%B8%D0%B9%20%D1%87%D0%B0%D1%81" alt="Прогноз количества заказов такси на следующий час">Прогноз количества заказов такси на следующий час</a>
+		</td>
+		<td>
+			Компании по предоставлению услуг такси требуется сервис по предсказанию количества заказов на следующий час, чтобы привлекать больше водителей в периоды пиковой нагрузки. Требуется построить модель для такого предсказания.
+		</td>
+		<td>
+			<code>Pandas</code>, <code>Numpy</code>, <code>Matplotlib</code>, <code>Scikit-Learn</code>, <code>LightGBM</code>, <code>CatBoost</code>, <code>XGBoost</code>, <code>RandomForest</code>, <code>LinearRegression</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%B0%D0%B1%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2" alt="Прогнозирование оттока абонентов">Прогнозирование оттока абонентов</a>
+		</td>
+		<td>
+			Телеком-провайдеру (доступ в интернет, телефония) требуется построить модель машинного обучения для предсказания оттока клиентов.
+		</td>
+		<td>
+			<code>Pandas</code>, <code>Numpy</code>, <code>Matplotlib</code>, <code>Seaborn</code>, <code>Scikit-Learn</code>, <code>RandomForestClassifier</code>, <code>KNeighborsClassifier</code>, <code>SVC</code>, <code>CatBoostClassifier</code>
+		</td>
+	</tr>
 </table>
 
-
-
-
-# Здравствуйте!
-
-## Меня зовут Андрей.
-
-В 2020 году я закончил курс Data Science на платформе Яндекс.Практикум. За время обучения было выполнено 17 проектов.  
 
 Были решены актуальные задачи для:
 * **Отраслевых компаний**
