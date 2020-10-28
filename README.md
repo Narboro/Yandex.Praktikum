@@ -28,14 +28,13 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/stas-chuprinskiy/praktikum_projects/tree/master/ab-analysis" alt="Анализ результатов A/B-теста интернет-магазина">Анализ результатов A/B-теста интернет-магазина</a>
+			<a href="https://github.com/Narboro/Yandex.Praktikum/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%20%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%B3%D1%80" alt="Анализ факторов успешности игр">Анализ факторов успешности игр</a>
 		</td>
 		<td>
-			Первая часть проекта - приоретизация существующих гипотез с помощью фреймворков <code>ICE</code> и <code>RICE</code>.
-			Вторая часть проекта - анализ результатов A/B-теста. Основная задача - интерпретация полученных результатов A/B-теста
+			Нахождение факторов, влияющих на успешность компьютерных игр, и их графический анализ. Описаны выводы.
 		</td>
 		<td>
-			<code>pandas</code>, <code>numpy</code>, <code>matplotlib</code>, <code>math</code>, <code>scipy</code>
+			<code>Pandas</code>, <code>Numpy</code>, <code>Matplotlib</code>, <code>Seaborn</code>, <code>Scipy</code>
 		</td>
 	</tr>
 	<tr>
